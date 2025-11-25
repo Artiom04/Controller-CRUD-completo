@@ -73,7 +73,7 @@ public class User {
 ## 📄 License
 This project is licensed under the MIT License.
 
-🙏 Acknowledgements
+## 🙏 Acknowledgements
 - Spring Boot Team
 - Spring Data JPA
 - The open-source community
