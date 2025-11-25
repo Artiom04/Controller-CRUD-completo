@@ -36,9 +36,17 @@ The goal is to provide a clear, clean, and working example of how to manage an e
 3. 🚀 API Usage
    Once the application is running, you can access the API at:
    ```bash
-   http://localhost:8080/api/items
+   http://localhost:8080/api/users
    ```
+## 📌 Available Endpoints
 
+| Method | Endpoint          | Description             |
+|--------|--------------------|-------------------------|
+| GET    | `/api/users`      | Retrieve all items      |
+| GET    | `/api/users/{id}` | Retrieve item by ID     |
+| POST   | `/api/users`      | Create a new item       |
+| PUT    | `/api/users/{id}` | Update an existing item |
+| DELETE | `/api/users/{id}` | Delete item by ID       |
 
 
 
