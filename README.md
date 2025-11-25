@@ -61,8 +61,22 @@ public class User {
     private int age;
 }
 ```
+## 🧠 Example JSON Requests
+➕ Create Item (POST)
+```bash
+{
+   "name": "Mario",
+   "eta": 25
+}
+```
 
+## 📄 License
+This project is licensed under the MIT License.
 
+🙏 Acknowledgements
+- Spring Boot Team
+- Spring Data JPA
+- The open-source community
 
 
 
