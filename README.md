@@ -48,6 +48,19 @@ The goal is to provide a clear, clean, and working example of how to manage an e
 | PUT    | `/api/users/{id}` | Update an existing item |
 | DELETE | `/api/users/{id}` | Delete item by ID       |
 
+## 📝 Example Entity
+```bash
+@Entity
+public class User {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+
+    private String name;
+    private int age;
+}
+```
 
 
 
@@ -56,8 +69,5 @@ The goal is to provide a clear, clean, and working example of how to manage an e
 
 
 
-
-
-   Once the application is running, you can access the API at:
    
    
