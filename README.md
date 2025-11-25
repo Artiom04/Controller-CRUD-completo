@@ -25,8 +25,31 @@ The goal is to provide a clear, clean, and working example of how to manage an e
 
 ## ⚙️ Installation
 1. 📥 Clone the repository:
-   
    ```bash
    git clone https://github.com/your-username/Controller-CRUD-complete.git
    cd Controller-CRUD-complete
    ```
+2. 🏗️ Build & Run the Project:
+   ```bash
+   mvn spring-boot:run
+   ```
+3. 🚀 API Usage
+   Once the application is running, you can access the API at:
+   ```bash
+   http://localhost:8080/api/items
+   ```
+
+
+
+
+
+
+
+
+
+
+
+
+   Once the application is running, you can access the API at:
+   
+   
