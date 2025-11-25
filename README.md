@@ -1,9 +1,9 @@
-# Controller-CRUD-completo
-Un progetto Spring Boot che implementa un controller REST completo con funzionalità CRUD (Create, Read, Update, Delete).
-L’obiettivo è mostrare un esempio chiaro, pulito e funzionante di come gestire un’entità tramite API REST.
+# ⚙️Controller-CRUD-completo
+A Spring Boot project that implements a fully functional REST controller with complete CRUD (Create, Read, Update, Delete) features.
+The goal is to provide a clear, clean, and working example of how to manage an entity through RESTful API endpoints.
 
 ---
-## Tecnologie utilizzate
+## 📋 Prerequisites
 - Java 17+
 - Spring Boot (Web, JPA, Validation)
 - Spring Data JPA
