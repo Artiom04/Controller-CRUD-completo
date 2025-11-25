@@ -25,6 +25,7 @@ The goal is to provide a clear, clean, and working example of how to manage an e
 
 ## ⚙️ Installation
 1. 📥 Clone the repository:
+   '''bash
    git clone https://github.com/your-username/Controller-CRUD-complete.git
    cd Controller-CRUD-complete
-
+   '''
